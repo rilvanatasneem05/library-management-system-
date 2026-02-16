@@ -77,5 +77,6 @@ public class Calculator {
         scan.close();
 
     }
+
 }
 
